@@ -1,8 +1,11 @@
 {
-  "userdetails": [
-"username":"BhaveshRao",
-"firstname":"Bhavesh",
-"lastname":"Rao",
-"password":"Pass@1234"
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
