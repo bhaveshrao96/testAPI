@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "userdetails": [
     {
-      "id": 1,
-      "title": "hello"
+      "username": "Bhavesh",
+      "firstname": "Bhavesh",
+      "lastname": "Rao",
+      "password": "Pass@1234",
+      "isLoggedIn":"false"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
