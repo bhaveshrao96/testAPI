@@ -5,7 +5,7 @@
       "firstname": "Bhavesh",
       "lastname": "Rao",
       "password": "Pass@1234",
-      "isLoggedIn":"false"
+      "isLoggedIn":"false",
     }
   ]
 }
